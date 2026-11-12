@@ -1,0 +1,14 @@
+venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+*.pdf
+*.docx
+*.xlsx
+.DS_Store
+app.py
+app_v1_backup.py
+fix_get_sentences.py
